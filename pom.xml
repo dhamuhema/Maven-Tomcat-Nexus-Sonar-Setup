@@ -117,7 +117,7 @@
   <distributionManagement>
     <snapshotRepository>
       <id>deploymentRepo</id>
-      <url>http:http://54.83.91.184:8081/repository/maven-releases/</url>
+      <url>http:http://54.242.0.207:8081/repository/maven-releases/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
